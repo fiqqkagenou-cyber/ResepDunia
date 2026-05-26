@@ -10,5 +10,6 @@ Mata Kuliah : Praktikum Mobile Programming
 ## Screenshot
 ![Halaman Utama](screenshot/Halaman%20Utama.jpeg)
 ![Halaman Detail](screenshot/Halaman%20Detail.jpeg)
-![Halaman Refresh]screenshot/(Halaman%20Refresh.jpeg)
+![Halaman Refresh](screenshot/Halaman%20Refresh.jpeg)
+
 
