@@ -11,11 +11,8 @@ Kelas       : B
 Mata Kuliah : Praktikum Mobile Programming
 
 ## Screenshot
-Halamn Utama
 ![Halaman Utama](screenshot/Halaman%20Utama.jpeg)
-Halaman Detail
 ![Halaman Detail](screenshot/Halaman%20Detail.jpeg)
-Halaman Refresh
 ![Halaman Refresh](screenshot/Halaman%20Refresh.jpeg)
 
 
