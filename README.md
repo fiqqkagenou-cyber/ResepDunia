@@ -3,8 +3,11 @@ Aplikasi katalog resep makanan di android
 
 ## Identitas
 Nama        : Rofiq Nurrohman
+
 Nim         : 2410501039
+
 Kelas       : B
+
 Mata Kuliah : Praktikum Mobile Programming
 
 ## Screenshot
